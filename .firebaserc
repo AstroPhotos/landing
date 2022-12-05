@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "astrophoto-fc934"
+  },
+  "targets": {
+    "astrophoto-fc934": {
+      "hosting": {
+        "astrophoto-fc934": [
+          "astrophoto-fc934"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
